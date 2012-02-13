@@ -1,0 +1,6 @@
+[diff]
+    external = /usr/local/bin/git-diff
+[user]
+        nam = Ian Enders
+        name = Ian Enders
+        email = ian.enders@gmail.com
